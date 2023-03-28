@@ -1,0 +1,11 @@
+[33mcommit 591b2ff9b35cc5fab57ea12f9ab481471214b8e5[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Maxi <maxiaguilera@hotmail.com>
+Date:   Mon Mar 27 19:43:32 2023 -0300
+
+    Creamos los estilos de la app
+
+[33mcommit b0fce1861df46a7e70fefbb69ac7935c4f37340d[m
+Author: Maxi <maxiaguilera@hotmail.com>
+Date:   Mon Mar 27 19:33:15 2023 -0300
+
+    Inicio un nuevo proyecto web
